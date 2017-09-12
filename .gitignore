@@ -3,9 +3,12 @@ node_modules
 gh-pages/lib
 gh-pages/css
 gh-pages/bundle.js
+temp_auto_push.bat
 gh-pages/bundle.js.map
 react-mentions.sublime-workspace
 coverage
 lib
 .grunt
 results
+.gitignore
+branch_structure.json
