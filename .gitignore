@@ -1,7 +1,10 @@
 /coverage
 /demo/dist
 /es
+temp_auto_push.bat
 /lib
 /node_modules
 /umd
 npm-debug.log*
+.gitignore
+branch_structure.json
