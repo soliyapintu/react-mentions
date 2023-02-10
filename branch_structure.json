@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "add-circle-ci-test-pipeline",
+    "changeset-release/master",
+    "changeset-release/refactor/release-pipeline",
+    "dependabot/npm_and_yarn/decode-uri-component-0.2.2",
+    "dependabot/npm_and_yarn/json5-1.0.2",
+    "master",
+    "origin",
+    "renovate/configure"
+  ],
+  "parent": {
+    "add-circle-ci-test-pipeline": "master",
+    "changeset-release/master": "master",
+    "changeset-release/refactor/release-pipeline": "master",
+    "dependabot/npm_and_yarn/decode-uri-component-0.2.2": "master",
+    "dependabot/npm_and_yarn/json5-1.0.2": "master",
+    "master": null,
+    "origin": "master",
+    "renovate/configure": "master"
+  },
+  "order": [
+    "master",
+    "add-circle-ci-test-pipeline",
+    "changeset-release/master",
+    "changeset-release/refactor/release-pipeline",
+    "dependabot/npm_and_yarn/decode-uri-component-0.2.2",
+    "dependabot/npm_and_yarn/json5-1.0.2",
+    "origin",
+    "renovate/configure"
+  ]
+}
